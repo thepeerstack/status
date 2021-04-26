@@ -18,7 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.thepeer.co
   # baseUrl: /your-repo-name
-  #  logoUrl: https://nigerialogos.com/logos/peerstack/peerstack.svg
+  logoUrl:
   name: ThePeer
   introTitle: "**ThePeer** is a fintech platform that enables their customers seamlessly send money from one fintech to another"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/thepeerstack/status).
