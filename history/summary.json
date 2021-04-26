@@ -2,7 +2,7 @@
   {
     "name": "Backend API",
     "url": "https://api.thepeer.co/api/health",
-    "icon": "https://favicons.githubusercontent.com/api.thepeer.co",
+    "icon": "https://thepeer.co/favicon.ico",
     "slug": "backend-api",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   }
 ]
