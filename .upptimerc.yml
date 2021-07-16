@@ -10,8 +10,7 @@ sites:
     url: https://thepeer.co
   - name: https://docs.thepeer.co
     url: ThePeer Documentation
-    expectedStatusCodes:
-      - 200
+    icon: https://thepeer.co/favicon.ico
 assignees: # Users to assign downtime issues (optional)
   - ichtrojan
   - nerdeveloper
