@@ -9,7 +9,7 @@ sites:
   - name: ThePeer Website
     url: https://thepeer.co
   - name: https://docs.thepeer.co
-    url: ThePeer Documentation
+    url:  ThePeer Documentation
     icon: https://thepeer.co/favicon.ico
 assignees: # Users to assign downtime issues (optional)
   - ichtrojan
