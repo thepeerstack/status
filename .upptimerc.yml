@@ -23,7 +23,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://res.cloudinary.com/nerdeveloper/image/upload/v1619465974/thepeer.png
   name: thepeer
-  introTitle: "**thepeer** is a platform that enables their customers seamlessly send money from one fintech to another"
+  introTitle: "**thepeer** is a platform that enables their customers seamlessly send money from one business to the other."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/thepeerstack/status).
   navbar:
     - title: Status
