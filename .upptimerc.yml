@@ -8,8 +8,10 @@ sites:
     icon: https://thepeer.co/favicon.ico
   - name: ThePeer Website
     url: https://thepeer.co
-  - name: https://docs.thepeer.co/
+  - name: https://docs.thepeer.co
     url: ThePeer Documentation
+    expectedStatusCodes:
+      - 200
 assignees: # Users to assign downtime issues (optional)
   - ichtrojan
   - nerdeveloper
