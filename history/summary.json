@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 646,
-    "timeWeek": 588,
-    "timeMonth": 570,
-    "timeYear": 491,
-    "dailyMinutesDown": {
-      "2021-09-25": 11
-    }
+    "time": 492,
+    "timeDay": 626,
+    "timeWeek": 589,
+    "timeMonth": 569,
+    "timeYear": 492,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ThePeer Website",
@@ -25,23 +23,20 @@
     "icon": "https://favicons.githubusercontent.com/thepeer.co",
     "slug": "the-peer-website",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 184,
-    "timeDay": 27,
-    "timeWeek": 172,
-    "timeMonth": 604,
+    "timeDay": 104,
+    "timeWeek": 174,
+    "timeMonth": 603,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2021-10-26": 19,
-      "2021-09-14": 10,
       "2021-08-14": 96,
-      "2021-07-27": 11,
-      "2021-07-13": 30,
-      "2021-07-12": 11
+      "2021-07-13": 30
     }
   },
   {
@@ -55,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 34,
-    "timeWeek": 65,
-    "timeMonth": 98,
-    "timeYear": 136,
+    "time": 135,
+    "timeDay": 49,
+    "timeWeek": 66,
+    "timeMonth": 93,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   }
 ]
