@@ -49,9 +49,9 @@
     "url": "https://docs.thepeer.co",
     "icon": "https://thepeer.co/favicon.ico",
     "slug": "the-peer-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -61,6 +61,7 @@
     "timeMonth": 85,
     "timeYear": 111,
     "dailyMinutesDown": {
+      "2022-04-03": 0,
       "2022-01-29": 21
     }
   }
