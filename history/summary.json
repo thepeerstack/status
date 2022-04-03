@@ -49,19 +49,19 @@
     "url": "https://docs.thepeer.co",
     "icon": "https://thepeer.co/favicon.ico",
     "slug": "the-peer-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 58,
-    "timeWeek": 92,
-    "timeMonth": 85,
+    "timeDay": 90,
+    "timeWeek": 96,
+    "timeMonth": 86,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2022-04-03": 0,
+      "2022-04-03": 11,
       "2022-01-29": 21
     }
   }
