@@ -26,7 +26,7 @@
     "url": "https://thepeer.co",
     "icon": "https://favicons.githubusercontent.com/thepeer.co",
     "slug": "the-peer-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 110,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2022-05-07": 0,
       "2022-03-01": 20,
       "2021-10-26": 19,
       "2021-08-14": 96,
