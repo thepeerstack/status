@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 504,
-    "timeDay": 420,
-    "timeWeek": 483,
-    "timeMonth": 481,
+    "timeDay": 377,
+    "timeWeek": 485,
+    "timeMonth": 478,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2022-03-24": 27,
@@ -27,15 +27,15 @@
     "icon": "https://favicons.githubusercontent.com/thepeer.co",
     "slug": "the-peer-website",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 169,
-    "timeDay": 113,
-    "timeWeek": 110,
-    "timeMonth": 206,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 202,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2022-07-01": 22,
@@ -43,8 +43,7 @@
       "2022-05-07": 16,
       "2022-03-01": 20,
       "2021-10-26": 19,
-      "2021-08-14": 96,
-      "2021-07-13": 30
+      "2021-08-14": 96
     }
   },
   {
@@ -59,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 98,
-    "timeWeek": 139,
-    "timeMonth": 121,
+    "timeDay": 107,
+    "timeWeek": 142,
+    "timeMonth": 116,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2022-01-29": 21
